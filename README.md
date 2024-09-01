@@ -1,4 +1,4 @@
-# Mobile_Price_Range_Prediction-AB_Capstone_Project
+# Mobile_Price_Range_Prediction-AB_Capstone_Classification_Project
 
 ![download](https://github.com/user-attachments/assets/f0dc1a4b-cf43-4cb9-8d45-81439890810b)
 
